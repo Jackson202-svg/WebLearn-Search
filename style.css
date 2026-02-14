@@ -206,6 +206,22 @@ code {
     font-family: Consolas, monospace;
 }
 
+
+.btn-primary {
+    display: inline-block;
+    padding: 12px 25px;
+    background: #38bdf8;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: #0ea5e9;
+    transform: translateY(-3px);
+}
 /* =========================
    FOOTER
 ========================= */
