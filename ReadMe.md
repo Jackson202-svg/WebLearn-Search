@@ -12,7 +12,7 @@ This project is hosted using **GitHub Pages**.
 
 ## 🚀 Live Website
 
-👉 [https://yourusername.github.io/repository-name/](https://jackson202-svg.github.io/WebLearn-Search/)
+👉 https://jackson202-svg.github.io/WebLearn-Search/
 
 (Replace with your actual GitHub Pages link)
 
